@@ -5,7 +5,9 @@ California Well completion reports(Well Logs) to Texture and Aquifer Parameters 
 These Python codes generate Unified Soil Classification System (USCS) designations for well completion reports from the California Department of Water Resources' (DWR) Online System for Well Completion Reports (OSWCR) 
 available at: 
 https://data.ca.gov/dataset/well-completion-reports
+
 https://data.cnra.ca.gov/dataset/aem
+
 https://data.cnra.ca.gov/dataset/svsim
 
 
