@@ -6,8 +6,12 @@ These Python codes generate Unified Soil Classification System (USCS) designatio
 available at: 
 https://data.ca.gov/dataset/well-completion-reports
 
+
+AEM Coarse Fractions and
+Ramboll well completion reports digitized as Supporting files for AEM flight lines at: 
 https://data.cnra.ca.gov/dataset/aem
 
+SVSim Texture datasets:  
 https://data.cnra.ca.gov/dataset/svsim
 
 
