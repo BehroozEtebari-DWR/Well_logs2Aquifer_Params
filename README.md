@@ -1,5 +1,5 @@
 # Well_logs2Aquifer_Params
-# Well Completion Reports and AEM Coarse Fractions to Aquifer Hysraulic Properties : 
+# Well Completion Reports and Airborne Electromagnetic (AEM) Surveys' Coarse Fractions to Aquifer Hydraulic Properties : 
 # Avg Coarse Fraction, Avg_Kxy, Avg_Kv, Avg_Ss, Avg_Sy
 California Well completion reports(Well Logs) to Texture and Aquifer Parameters Python codes
 
