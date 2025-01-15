@@ -39,7 +39,7 @@ These parameters are processed for all four layers of the C2VSimFG v2.0 model.
 ### References
 
 - **IWFM Engine:** [Integrated Water Flow Model (IWFM)](https://data.ca.gov/dataset/integrated-water-flow-model-iwfm)  
-- **C2VSimFG Version 1.5:** [C2VSimFG Dataset](https://data.cnra.ca.gov/dataset/c2vsimfg)  
+- **C2VSimFG Version 1.5:** California Central Valley Groundwater-Surface Water Simulation Model – Fine Grid (C2VSimFG)[C2VSimFG Dataset](https://data.cnra.ca.gov/dataset/c2vsimfg)  
 
 ### Customizing for Other Model Configurations
 
